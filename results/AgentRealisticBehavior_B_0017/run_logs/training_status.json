@@ -1,0 +1,299 @@
+{
+    "AgentRealisticBehavior": {
+        "checkpoints": [
+            {
+                "steps": 99907,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-99907.onnx",
+                "reward": -2.3033789259405406,
+                "creation_time": 1778232841.4024305,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-99907.pt"
+                ]
+            },
+            {
+                "steps": 199899,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-199899.onnx",
+                "reward": -2.6849875896975086,
+                "creation_time": 1778234488.5332198,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-199899.pt"
+                ]
+            },
+            {
+                "steps": 299964,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-299964.onnx",
+                "reward": -1.1948072395118123,
+                "creation_time": 1778236146.4570656,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-299964.pt"
+                ]
+            },
+            {
+                "steps": 399892,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-399892.onnx",
+                "reward": 1.5979176871478558,
+                "creation_time": 1778237815.1909294,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-399892.pt"
+                ]
+            },
+            {
+                "steps": 499919,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-499919.onnx",
+                "reward": -0.8306499043828808,
+                "creation_time": 1778239511.8318937,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-499919.pt"
+                ]
+            },
+            {
+                "steps": 599960,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-599960.onnx",
+                "reward": 1.0897011714987457,
+                "creation_time": 1778241221.8662708,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-599960.pt"
+                ]
+            },
+            {
+                "steps": 699907,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-699907.onnx",
+                "reward": 0.802376260360082,
+                "creation_time": 1778242908.3036158,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-699907.pt"
+                ]
+            },
+            {
+                "steps": 799909,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-799909.onnx",
+                "reward": 2.078013755643042,
+                "creation_time": 1778244590.28664,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-799909.pt"
+                ]
+            },
+            {
+                "steps": 899955,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-899955.onnx",
+                "reward": 2.107966563152149,
+                "creation_time": 1778246294.246515,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-899955.pt"
+                ]
+            },
+            {
+                "steps": 999934,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-999934.onnx",
+                "reward": 1.676519999243319,
+                "creation_time": 1778248000.642947,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-999934.pt"
+                ]
+            },
+            {
+                "steps": 1099956,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1099956.onnx",
+                "reward": 1.9438998033292592,
+                "creation_time": 1778249713.3806536,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1099956.pt"
+                ]
+            },
+            {
+                "steps": 1199948,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1199948.onnx",
+                "reward": 1.5458262775093317,
+                "creation_time": 1778251422.5412982,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1199948.pt"
+                ]
+            },
+            {
+                "steps": 1299919,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1299919.onnx",
+                "reward": 2.4422739824901023,
+                "creation_time": 1778253135.5301237,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1299919.pt"
+                ]
+            },
+            {
+                "steps": 1399957,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1399957.onnx",
+                "reward": 2.3122773872954503,
+                "creation_time": 1778254851.0252097,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1399957.pt"
+                ]
+            },
+            {
+                "steps": 1499961,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1499961.onnx",
+                "reward": 1.2279238045243,
+                "creation_time": 1778256563.6206381,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1499961.pt"
+                ]
+            },
+            {
+                "steps": 1599978,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1599978.onnx",
+                "reward": 1.8454358869465068,
+                "creation_time": 1778258273.9032302,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1599978.pt"
+                ]
+            },
+            {
+                "steps": 1699920,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1699920.onnx",
+                "reward": 1.4636401181778638,
+                "creation_time": 1778259989.0386388,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1699920.pt"
+                ]
+            },
+            {
+                "steps": 1799904,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1799904.onnx",
+                "reward": 2.1671188709904152,
+                "creation_time": 1778261706.5345147,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1799904.pt"
+                ]
+            },
+            {
+                "steps": 1899872,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1899872.onnx",
+                "reward": 1.9114668956978924,
+                "creation_time": 1778263428.648768,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1899872.pt"
+                ]
+            },
+            {
+                "steps": 1999914,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1999914.onnx",
+                "reward": 1.4634094461798668,
+                "creation_time": 1778265155.9250648,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-1999914.pt"
+                ]
+            },
+            {
+                "steps": 2099992,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2099992.onnx",
+                "reward": 2.058126358992674,
+                "creation_time": 1778266883.9745705,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2099992.pt"
+                ]
+            },
+            {
+                "steps": 2199923,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2199923.onnx",
+                "reward": 2.380692917853594,
+                "creation_time": 1778268614.6604927,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2199923.pt"
+                ]
+            },
+            {
+                "steps": 2299971,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2299971.onnx",
+                "reward": 2.081228366494179,
+                "creation_time": 1778270344.78336,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2299971.pt"
+                ]
+            },
+            {
+                "steps": 2399985,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2399985.onnx",
+                "reward": 2.373196356652959,
+                "creation_time": 1778272078.4054654,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2399985.pt"
+                ]
+            },
+            {
+                "steps": 2499922,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2499922.onnx",
+                "reward": 2.300042662432353,
+                "creation_time": 1778273810.5486655,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2499922.pt"
+                ]
+            },
+            {
+                "steps": 2599957,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2599957.onnx",
+                "reward": 2.099656581326767,
+                "creation_time": 1778275553.4892862,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2599957.pt"
+                ]
+            },
+            {
+                "steps": 2699988,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2699988.onnx",
+                "reward": 1.9967038681840195,
+                "creation_time": 1778277299.0104873,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2699988.pt"
+                ]
+            },
+            {
+                "steps": 2799930,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2799930.onnx",
+                "reward": 1.8806595392525196,
+                "creation_time": 1778279051.803273,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2799930.pt"
+                ]
+            },
+            {
+                "steps": 2899886,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2899886.onnx",
+                "reward": 1.9396847479045392,
+                "creation_time": 1778280805.996509,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2899886.pt"
+                ]
+            },
+            {
+                "steps": 2999891,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2999891.onnx",
+                "reward": null,
+                "creation_time": 1778282564.1497889,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-2999891.pt"
+                ]
+            },
+            {
+                "steps": 3000019,
+                "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-3000019.onnx",
+                "reward": null,
+                "creation_time": 1778282564.3512034,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-3000019.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3000019,
+            "file_path": "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior.onnx",
+            "reward": null,
+            "creation_time": 1778282564.3512034,
+            "auxillary_file_paths": [
+                "results\\AgentRealisticBehavior_B_0017\\AgentRealisticBehavior\\AgentRealisticBehavior-3000019.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

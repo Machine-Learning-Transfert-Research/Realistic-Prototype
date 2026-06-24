@@ -1,0 +1,29 @@
+{
+    "AgentRealisticBehavior": {
+        "checkpoints": [
+            {
+                "steps": 13987,
+                "file_path": "results\\AgentArcadeTransfert03\\AgentRealisticBehavior\\AgentRealisticBehavior-13987.onnx",
+                "reward": 2.086135490735372,
+                "creation_time": 1777557119.5496979,
+                "auxillary_file_paths": [
+                    "results\\AgentArcadeTransfert03\\AgentRealisticBehavior\\AgentRealisticBehavior-13987.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 13987,
+            "file_path": "results\\AgentArcadeTransfert03\\AgentRealisticBehavior.onnx",
+            "reward": 2.086135490735372,
+            "creation_time": 1777557119.5496979,
+            "auxillary_file_paths": [
+                "results\\AgentArcadeTransfert03\\AgentRealisticBehavior\\AgentRealisticBehavior-13987.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.1+cpu"
+    }
+}

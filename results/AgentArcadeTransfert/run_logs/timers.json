@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1777544834",
+        "python_version": "3.10.12 | packaged by Anaconda, Inc. | (main, Jul  5 2023, 19:01:18) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\omaya\\anaconda3\\envs\\PFM\\lib\\site-packages\\mlagents\\trainers\\learn.py config/AgentRealisticBehavior_config.yaml --run-id=AgentArcadeTransfert --base-port=5005 --initialize-from=training021",
+        "mlagents_version": "1.1.0",
+        "mlagents_envs_version": "1.1.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.1.1+cpu",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1777544911"
+    },
+    "total": 76.40562870001304,
+    "count": 1,
+    "self": 0.005854500021087006,
+    "children": {
+        "run_training.setup": {
+            "total": 0.06611250000423752,
+            "count": 1,
+            "self": 0.06611250000423752
+        },
+        "TrainerController.start_learning": {
+            "total": 76.33366169998772,
+            "count": 1,
+            "self": 0.00010550001752562821,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 76.33353999999235,
+                    "count": 1,
+                    "self": 76.33353999999235
+                },
+                "TrainerController._save_models": {
+                    "total": 1.619997783564031e-05,
+                    "count": 1,
+                    "self": 1.619997783564031e-05
+                }
+            }
+        }
+    }
+}

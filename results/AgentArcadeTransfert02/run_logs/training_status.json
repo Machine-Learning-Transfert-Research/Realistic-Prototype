@@ -1,0 +1,47 @@
+{
+    "AgentRealisticBehavior": {
+        "checkpoints": [
+            {
+                "steps": 499876,
+                "file_path": "results\\AgentArcadeTransfert02\\AgentRealisticBehavior\\AgentRealisticBehavior-499876.onnx",
+                "reward": 2.0678495451807977,
+                "creation_time": 1777549064.2230496,
+                "auxillary_file_paths": [
+                    "results\\AgentArcadeTransfert02\\AgentRealisticBehavior\\AgentRealisticBehavior-499876.pt"
+                ]
+            },
+            {
+                "steps": 999885,
+                "file_path": "results\\AgentArcadeTransfert02\\AgentRealisticBehavior\\AgentRealisticBehavior-999885.onnx",
+                "reward": -2.9878242183476686,
+                "creation_time": 1777553342.962394,
+                "auxillary_file_paths": [
+                    "results\\AgentArcadeTransfert02\\AgentRealisticBehavior\\AgentRealisticBehavior-999885.pt"
+                ]
+            },
+            {
+                "steps": 1459661,
+                "file_path": "results\\AgentArcadeTransfert02\\AgentRealisticBehavior\\AgentRealisticBehavior-1459661.onnx",
+                "reward": 2.1920930051969156,
+                "creation_time": 1777556936.0272706,
+                "auxillary_file_paths": [
+                    "results\\AgentArcadeTransfert02\\AgentRealisticBehavior\\AgentRealisticBehavior-1459661.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1459661,
+            "file_path": "results\\AgentArcadeTransfert02\\AgentRealisticBehavior.onnx",
+            "reward": 2.1920930051969156,
+            "creation_time": 1777556936.0272706,
+            "auxillary_file_paths": [
+                "results\\AgentArcadeTransfert02\\AgentRealisticBehavior\\AgentRealisticBehavior-1459661.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.1.1+cpu"
+    }
+}

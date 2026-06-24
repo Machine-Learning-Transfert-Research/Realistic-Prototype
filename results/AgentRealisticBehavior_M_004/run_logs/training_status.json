@@ -1,0 +1,56 @@
+{
+    "AgentRealisticBehavior": {
+        "checkpoints": [
+            {
+                "steps": 264218,
+                "file_path": "results\\AgentRealisticBehavior_M_004\\AgentRealisticBehavior\\AgentRealisticBehavior-264218.onnx",
+                "reward": 2.2796972161740996,
+                "creation_time": 1773696429.0577567,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_M_004\\AgentRealisticBehavior\\AgentRealisticBehavior-264218.pt"
+                ]
+            },
+            {
+                "steps": 271776,
+                "file_path": "results\\AgentRealisticBehavior_M_004\\AgentRealisticBehavior\\AgentRealisticBehavior-271776.onnx",
+                "reward": 0.08149628154933453,
+                "creation_time": 1773696804.093168,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_M_004\\AgentRealisticBehavior\\AgentRealisticBehavior-271776.pt"
+                ]
+            },
+            {
+                "steps": 278181,
+                "file_path": "results\\AgentRealisticBehavior_M_004\\AgentRealisticBehavior\\AgentRealisticBehavior-278181.onnx",
+                "reward": 1.041147113777697,
+                "creation_time": 1773698324.1724808,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_M_004\\AgentRealisticBehavior\\AgentRealisticBehavior-278181.pt"
+                ]
+            },
+            {
+                "steps": 1133686,
+                "file_path": "results\\AgentRealisticBehavior_M_004\\AgentRealisticBehavior\\AgentRealisticBehavior-1133686.onnx",
+                "reward": 2.86045503616333,
+                "creation_time": 1773731465.357371,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_M_004\\AgentRealisticBehavior\\AgentRealisticBehavior-1133686.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1133686,
+            "file_path": "results\\AgentRealisticBehavior_M_004\\AgentRealisticBehavior.onnx",
+            "reward": 2.86045503616333,
+            "creation_time": 1773731465.357371,
+            "auxillary_file_paths": [
+                "results\\AgentRealisticBehavior_M_004\\AgentRealisticBehavior\\AgentRealisticBehavior-1133686.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "AgentRealisticBehavior": {
+        "checkpoints": [
+            {
+                "steps": 279989,
+                "file_path": "results\\AgentRealisticBehavior_M_001\\AgentRealisticBehavior\\AgentRealisticBehavior-279989.onnx",
+                "reward": -3.0710670948028564,
+                "creation_time": 1773604115.2820942,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_M_001\\AgentRealisticBehavior\\AgentRealisticBehavior-279989.pt"
+                ]
+            },
+            {
+                "steps": 283653,
+                "file_path": "results\\AgentRealisticBehavior_M_001\\AgentRealisticBehavior\\AgentRealisticBehavior-283653.onnx",
+                "reward": 0.03932470901470099,
+                "creation_time": 1773605279.6351898,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_M_001\\AgentRealisticBehavior\\AgentRealisticBehavior-283653.pt"
+                ]
+            },
+            {
+                "steps": 292962,
+                "file_path": "results\\AgentRealisticBehavior_M_001\\AgentRealisticBehavior\\AgentRealisticBehavior-292962.onnx",
+                "reward": 0.3855572956215058,
+                "creation_time": 1773605609.4609056,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_M_001\\AgentRealisticBehavior\\AgentRealisticBehavior-292962.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 292962,
+            "file_path": "results\\AgentRealisticBehavior_M_001\\AgentRealisticBehavior.onnx",
+            "reward": 0.3855572956215058,
+            "creation_time": 1773605609.4609056,
+            "auxillary_file_paths": [
+                "results\\AgentRealisticBehavior_M_001\\AgentRealisticBehavior\\AgentRealisticBehavior-292962.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "AgentRealisticBehavior": {
+        "checkpoints": [
+            {
+                "steps": 68882,
+                "file_path": "results\\AgentRealisticBehavior_M_002\\AgentRealisticBehavior\\AgentRealisticBehavior-68882.onnx",
+                "reward": 0.23420335402091344,
+                "creation_time": 1773613671.8494034,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_M_002\\AgentRealisticBehavior\\AgentRealisticBehavior-68882.pt"
+                ]
+            },
+            {
+                "steps": 226476,
+                "file_path": "results\\AgentRealisticBehavior_M_002\\AgentRealisticBehavior\\AgentRealisticBehavior-226476.onnx",
+                "reward": 1.8274787952160012,
+                "creation_time": 1773619028.279684,
+                "auxillary_file_paths": [
+                    "results\\AgentRealisticBehavior_M_002\\AgentRealisticBehavior\\AgentRealisticBehavior-226476.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 226476,
+            "file_path": "results\\AgentRealisticBehavior_M_002\\AgentRealisticBehavior.onnx",
+            "reward": 1.8274787952160012,
+            "creation_time": 1773619028.279684,
+            "auxillary_file_paths": [
+                "results\\AgentRealisticBehavior_M_002\\AgentRealisticBehavior\\AgentRealisticBehavior-226476.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

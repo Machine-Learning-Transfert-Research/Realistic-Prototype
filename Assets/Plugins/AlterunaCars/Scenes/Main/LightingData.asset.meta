@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51b58019c1508f344830c59624945bb3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Scenes/Main/LightingData.asset
+  uploadId: 907438

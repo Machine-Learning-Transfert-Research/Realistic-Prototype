@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 822d211d2e318c24180a61e2fa2f97b6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Terrain/Ground Textures/layer_Groundplantsd.terrainlayer
+  uploadId: 907438

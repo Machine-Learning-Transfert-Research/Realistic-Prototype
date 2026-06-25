@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 068a0313319aa4749a4571f48e0d8154
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Materials/Pavement.mat
+  uploadId: 907438

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 169c1fa0355484703896aed334747b2c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Shaders/PolyTerrain/FirstPassLightmap.shader
+  uploadId: 907438

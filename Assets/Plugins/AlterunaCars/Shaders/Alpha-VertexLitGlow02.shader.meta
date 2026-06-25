@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3f2e48bcd1f4b43698f8c194f15add41
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Shaders/Alpha-VertexLitGlow02.shader
+  uploadId: 907438

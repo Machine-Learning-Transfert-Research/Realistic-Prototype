@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0a6aa5024e264e6883e68f60a57309f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Materials/LightBridge.mat
+  uploadId: 907438

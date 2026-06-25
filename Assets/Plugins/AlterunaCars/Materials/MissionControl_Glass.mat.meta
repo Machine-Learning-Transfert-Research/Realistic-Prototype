@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71642ae9f27dc41b088999b7beb4e9fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Materials/MissionControl_Glass.mat
+  uploadId: 907438

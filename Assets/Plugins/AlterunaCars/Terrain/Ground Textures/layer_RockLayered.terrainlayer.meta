@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30645e7384ca26644b46a56a4c3da07f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Terrain/Ground Textures/layer_RockLayered.terrainlayer
+  uploadId: 907438

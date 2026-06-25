@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 05a4b688e075b4c3c919f4f8e8e9c584
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Materials/Bridge-Base.mat
+  uploadId: 907438

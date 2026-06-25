@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1498bb61221e9d42bf92479e1ba7d6c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Models/Map/Materials/MissionControl_FBX_v2-Baker.mat
+  uploadId: 907438

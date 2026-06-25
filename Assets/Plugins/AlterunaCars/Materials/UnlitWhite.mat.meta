@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2242f4af1813f5840b34cc74e4aa1d17
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Materials/UnlitWhite.mat
+  uploadId: 907438

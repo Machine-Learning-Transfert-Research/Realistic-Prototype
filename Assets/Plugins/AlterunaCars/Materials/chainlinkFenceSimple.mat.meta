@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4408034c7e9234cf2af5acf94013008b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Materials/chainlinkFenceSimple.mat
+  uploadId: 907438

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5a1c26b5070d1944b0192ce88ea306a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Materials/CAR_Bottom-Interior-Wheel.mat
+  uploadId: 907438

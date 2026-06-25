@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 96c32d34d89d1384d9e3c595a61bc9cf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Materials/Roadsigns.mat
+  uploadId: 907438

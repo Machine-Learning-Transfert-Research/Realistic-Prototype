@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b103c1cab4d70d643a6ff2eed0262292
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Textures/UI/MiniMap.renderTexture
+  uploadId: 907438

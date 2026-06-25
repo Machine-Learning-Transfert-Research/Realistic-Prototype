@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 55225a6512a1d0847b50ee03e3480e62
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Models/Map/Materials/MissionControl_FBX_v2-Glass.mat
+  uploadId: 907438

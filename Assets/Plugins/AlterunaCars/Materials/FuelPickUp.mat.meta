@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1d983c3ddf654a8b8008bea55280a4d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Materials/FuelPickUp.mat
+  uploadId: 907438

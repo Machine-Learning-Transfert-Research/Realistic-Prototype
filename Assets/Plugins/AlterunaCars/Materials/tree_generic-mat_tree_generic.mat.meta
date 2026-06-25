@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 873d1fb5fa1d84eca8899e907f1d1af9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Materials/tree_generic-mat_tree_generic.mat
+  uploadId: 907438

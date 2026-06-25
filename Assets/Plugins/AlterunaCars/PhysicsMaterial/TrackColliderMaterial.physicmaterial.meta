@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 529e9f07a6ab62b48b166b205b473484
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/PhysicsMaterial/TrackColliderMaterial.physicmaterial
+  uploadId: 907438

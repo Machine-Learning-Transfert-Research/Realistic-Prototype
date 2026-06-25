@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a2a6cf69d12224a029fbcdb5502e15de
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248132
+  packageName: Multiplayer Racing Template
+  packageVersion: 2.1.0
+  assetPath: Assets/AlterunaCars/Shaders/AlphaTest-Diffuse-GEqual.shader
+  uploadId: 907438
